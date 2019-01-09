@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+
+    <string name="movie_id">movie_id</string>
+
+    <string name="heading">Heading</string>
+    <string name="release_date">Release Date</string>
+    <string name="adult_movie">(A)</string>
+    <string name="not_adult_movie">(U/A)</string>
+    <string name="overview">Overview</string>
+    <string name="popularity">Popularity</string>
+    <string name="language">Language</string>
+    <string name="revenue">Revenue</string>
+    <string name="select_genre">Select Genre</string>
+
+    <!-- String for Errors -->
+    <string name="error_internet_not_connected">Please Check Internet Connection and Try Again</string>
+    <string name="error_data_not_present_at_this_moment">Data not present at this moment.\n Please try again.</string>
+
+</resources>
